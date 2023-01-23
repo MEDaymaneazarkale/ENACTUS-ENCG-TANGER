@@ -223,8 +223,8 @@ html {
     }
     nav li ul {
         float: left;
-        left: -25px;
-        right: -25px;
+        left: -40px;
+        right: -40px;
         opacity: 0;
         position: absolute;
         top: 35px;
@@ -246,7 +246,7 @@ html {
         float: none;
         text-align: center;
         width: 100%;
-        padding: 4px;
+        padding: 5px 4px;
         color: #fdc300;
     }
     nav li ul a:hover {
