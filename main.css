@@ -284,4 +284,27 @@ html {
         background-color: #303030;
         background-blend-mode: multiply;
     }
-    
+    .background-8 {
+        background-image: url("images/trophie.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: #303030;
+        background-blend-mode: multiply;
+    }
+    .background-9 {
+        background-image: url("images/enactus_day_powerskills.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: #303030;
+        background-blend-mode: multiply;
+    }
+    .background-10 {
+        background-image: url("images/PowerSkills\ bg.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: #303030;
+        background-blend-mode: multiply;
+    }
